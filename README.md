@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-seven-liard.vercel.app/api?username=sarmai&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-seven-liard.vercel.app/api?username=sarmai&show_icons=true&theme=github_dark&include_all_commits)
 
-[![Top Langs](https://github-readme-stats-seven-liard.vercel.app/api/top-langs/?username=sarmai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-liard.vercel.app/api/top-langs/?username=sarmai&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sarmai/sarmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
