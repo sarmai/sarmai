@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats-seven-liard.vercel.app/api?username=sarmai&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats-seven-liard.vercel.app/api/top-langs/?username=sarmai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
