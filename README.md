@@ -6,7 +6,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ailen_sarm)
 [![Views](https://komarev.com/ghpvc/?username=Sarmerer&style=flat&color=blueviolet&label=Views)](https://github.com/sarmai)
 
-![GitHub stats](https://github-readme-stats-seven-liard.vercel.app/api?username=sarmai&show_icons=true&theme=github_dark&include_all_commits=true)
+![GitHub stats](https://github-readme-stats-seven-liard.vercel.app/api?username=sarmai&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars&count_private=true)
+)
 
 [![Top Langs](https://github-readme-stats-seven-liard.vercel.app/api/top-langs/?username=sarmai&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
