@@ -6,10 +6,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ailen_sarm)
 [![Views](https://komarev.com/ghpvc/?username=sarmai&style=flat&color=blueviolet&label=Views)](https://github.com/sarmai)
 
-![GitHub stats](https://github-readme-stats-seven-liard.vercel.app/api?username=sarmai&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars&count_private=true)
+## Stats
+[![](https://github-readme-stats.vercel.app/api?username=sarmai&show_icons=true&count_private=true&hide_title=true&theme=github_dark)](stats)
 
-
-[![Top Langs](https://github-readme-stats-seven-liard.vercel.app/api/top-langs/?username=sarmai&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+## Most Used Languages
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmai&layout=compact&hide_title=true&theme=github_dark)](languages)
 
 <!--
 **sarmai/sarmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
