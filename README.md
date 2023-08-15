@@ -6,8 +6,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ailen_sarm)
 [![Views](https://komarev.com/ghpvc/?username=sarmai&style=flat&color=blueviolet&label=Views)](https://github.com/sarmai)
 
-## Stats
-[![](https://github-readme-stats.vercel.app/api?username=sarmai&show_icons=true&count_private=true&hide_title=true&theme=github_dark)](stats)
 
 ## Most Used Languages
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmai&layout=compact&hide_title=true&theme=github_dark)](languages)
